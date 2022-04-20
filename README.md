@@ -1,2 +1,2 @@
-# NGSchool_2021
+# NGSchool
 This repository is for NGSchool projects.
